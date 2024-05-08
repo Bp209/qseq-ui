@@ -1,0 +1,6 @@
+Flask==3.0.0
+Flask-Session==0.3.1
+Flask-SocketIO>=5
+paramiko==3.3.1 # newer version of requires newer rustc version
+six==1.16.0
+gunicorn==20.1.0

@@ -1,0 +1,15 @@
+# resources
+l resources/functions.py
+
+# init
+i init()
+
+# steps
+p 1 timestamp()
+s 5 b()
+s 10 b()
+s 15 c()
+s 20 a()
+
+# end
+f final()
